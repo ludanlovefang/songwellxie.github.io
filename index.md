@@ -6,19 +6,16 @@ layout: default
 
 <img class="profile-picture" src="/img/profile.jpg">
 
-I will join the PolyU as research assistant in Sep, 2017. 
+Currently I am a Research Assistant of Department of Computing at HK PolyU. My advisor is Prof. [Lei Yang](http://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). 
 
 Prior to this, I got my bachelor degree in Electrical Engineering and second major in Information Engineering at Shanghai Jiao Tong University, affiliated with IEEE Honor Class. My supervisor is Prof. [Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/).
 
 ## Research Interest
 
+Currently I am interested in RFID & NFC.
 I mainly research on cloud & container applications, includes Hadoop, Docker. 
 
 ## Contact
-
-#### Address ####
-
-Boston, MA 02125, US
 
 #### Email ####
 Shanxie6622ATgmail.com
